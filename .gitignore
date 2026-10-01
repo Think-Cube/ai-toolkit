@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.suo
+*.user
+
+# Environment
+.env
+.env.local
+
+# Node (if tooling is added)
+node_modules/
+
+# Python (if tooling is added)
+__pycache__/
+*.pyc
+*.pyo
+.venv/
